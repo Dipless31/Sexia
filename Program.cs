@@ -55,7 +55,7 @@ namespace TgBot {
         //         var callback = update.CallbackQuery;
         //         if (callback.Data == "button_pressed") {
         //             await bot.SendTextMessageAsync(callback.Message.Chat.Id, "https://vk.com/audio585705204_456239022_222a2bc144cff58ed0");
-        //     }
+        //     }bkjbjkbjkb
         //     } dsfklsdfldksfsdfklds;f
             }
                   private static async Task Error(ITelegramBotClient bot, Exception exception, HandleErrorSource source, CancellationToken token)
