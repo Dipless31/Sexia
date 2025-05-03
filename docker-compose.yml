@@ -1,0 +1,6 @@
+services:
+  sexia:
+    build: .
+    environment:
+      - NEXIA_TOKEN=${NEXIA_TOKEN}
+      
